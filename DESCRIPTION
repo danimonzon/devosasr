@@ -1,0 +1,15 @@
+Package: devosasr
+Type: Package
+Title: DevoSASR
+Version: 0.1.1
+Date: 2021-11-24
+Author: Daniel Monzon Arteta <danimonzon@gmail.com>
+Maintainer: Daniel Monzon Arteta <danimonzon@gmail.com>
+Description: Functions to connect R with Devo in Google (SASR)
+License: GPL-3
+Depends: R (>= 4.0.0)
+Imports: dplyr, httr, lubridate, stringr, vroom
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: testthat (>= 3.0.0)
